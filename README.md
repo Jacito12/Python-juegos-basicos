@@ -17,9 +17,11 @@
 ## Instrucciones de Ejecución
 
 1. Clona este repositorio o descarga el archivo `adivina_el_numero.py`.
-2. Abre una terminal o línea de comandos.
-3. Navega hasta el directorio donde se encuentra el archivo `adivina_el_numero.py`.
-4. Ejecuta el siguiente comando para iniciar el juego:
+   ```bash
+   https://github.com/Jacito12/adivinar-numero.git
+3. Abre una terminal o línea de comandos.
+4. Navega hasta el directorio donde se encuentra el archivo `adivina_el_numero.py`.
+5. Ejecuta el siguiente comando para iniciar el juego:
 
    ```bash
    python adivina_el_numero.py
