@@ -26,7 +26,7 @@ def adivinar_numero():
 
             else:
                 print(f"Felicidades!! :D, el número era {numero_secreto}.")
-                print(f"Lo haz logrado en {intentos} intentos.") 
+                print(f"Lo has logrado en {intentos} intentos.") 
                 adivinaste = True
 
 adivinar_numero()
